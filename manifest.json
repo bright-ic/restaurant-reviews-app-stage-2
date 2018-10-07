@@ -1,0 +1,21 @@
+{
+    "name": "Restaturant Review App",
+    "short_name" : "Reviewer",
+    "start_url": "index.html?utm_source=homescreen",
+    "scope" : "./",
+    "icons": [
+        {
+            "src": "./img/icon_ 192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/icon_512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#3397DB",
+    "background_color": "#3397DB",
+    "display": "standalone"
+}
