@@ -12,6 +12,6 @@ You have been provided the code for a restaurant reviews website. The code has a
 
 ### How To Install
 
-1. clone and run the development server from https://github.com/udacity/mws-restaurant-stage-2 (see also details of how to install)
+1. clone and run the development server from https://github.com/bright-ic/mws-restaurant-stage-2 (see also details of how to install)
 
 2. clone, install and run this repository (serve with http server eg python http server).
