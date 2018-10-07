@@ -10,16 +10,8 @@ For the **Restaurant Reviews** projects, you will incrementally convert a static
 
 You have been provided the code for a restaurant reviews website. The code has a lot of issues. It’s barely usable on a desktop browser, much less a mobile device. It also doesn’t include any standard accessibility features, and it doesn’t work offline at all. Your job is to update the code to resolve these issues while still maintaining the included functionality. 
 
-### Getting Started
+### How To Install
 
 1. clone and run the development server from https://github.com/udacity/mws-restaurant-stage-2 (see also details of how to install)
 
-2. clone, install and run this repository (serve with http server eg python http server.)
-
-
-### Note about ES6
-
-Most of the code in this project has been written to the ES6 JavaScript specification for compatibility with modern web browsers and future proofing JavaScript code. As much as possible, try to maintain use of ES6 in any additional JavaScript you write. 
-
-
-
+2. clone, install and run this repository (serve with http server eg python http server).
